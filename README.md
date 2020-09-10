@@ -1,6 +1,6 @@
 # Hi! i'm a Minecraft modder and Hobby programmer with too much time!
 
-##### My favorite languages are Java and Kotlin!
+##### My favorite languages are Rust and Kotlin!
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=lordmzte&show_icons=true&theme=dracula" />
