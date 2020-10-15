@@ -1,4 +1,4 @@
-# Hi! i'm a Minecraft modder and Hobby programmer with too much time!
+# Hi! i'm a Rustacian and Minecraft modder with too much time!
 
 ##### My favorite languages are Rust and Kotlin!
 
