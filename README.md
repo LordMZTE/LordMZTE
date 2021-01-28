@@ -1,6 +1,6 @@
 # Hi! i'm a Rustacian and Minecraft modder with too much time!
 
-##### My favorite languages are Rust, Kotlin and Haxe!
+##### My favorite languages are Rust, Haxe and Kotlin!
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=lordmzte&show_icons=true&theme=dracula" />
@@ -9,5 +9,9 @@
 <hr />
 
 ### Contact
-- Twitter: @lordmzte
-- Matrix: @lordmzte:matrix.org
+| Platform | Name                                      |
+| :------- | ----------------------------------------: |
+| Twitter  | [@lordmzte](https://twitter.com/LordMZTE) |
+| Matrix   | @lordmzte:matrix.org                      |
+| Discord  | LordMZTE#9001                             |
+| Email    | lord@mzte.de                              |
