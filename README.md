@@ -1,4 +1,4 @@
-# Hi! i'm a Rustacian and Minecraft modder with too much time!
+# Hi! i'm a Rustacian, [Python hater](https://pythonlang.org) and Minecraft modder with too much time!
 
 ##### My favorite languages are Rust, Haxe and Kotlin!
 
