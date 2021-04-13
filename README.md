@@ -16,3 +16,7 @@
 | Matrix   | @lordmzte:matrix.org                      |
 | Discord  | LordMZTE#9001                             |
 | Email    | lord@mzte.de                              |
+
+## What do i think of this programming language?
+always exactly this:
+![langchart](langchart.png)
