@@ -13,7 +13,7 @@
 | Platform | Name                                      |
 | :------- | ----------------------------------------: |
 | Twitter  | [@lordmzte](https://twitter.com/LordMZTE) |
-| Matrix   | @lordmzte:matrix.org                      |
+| Matrix   | @lordmzte:mzte.de                         |
 | Discord  | LordMZTE#9001                             |
 | Email    | lord@mzte.de                              |
 
