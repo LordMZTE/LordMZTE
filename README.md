@@ -1,4 +1,6 @@
-# Hi! i'm a Rustacian, [Python hater](https://pythonlang.org) and Minecraft modder with too much time!
+# I don't actively use github anymore! See my newer projects on [my git server](https://mzte.de/git)!
+
+## Hi! i'm a Rustacian, [Python hater](https://pythonlang.org) and Minecraft modder with too much time!
 
 ##### My favorite languages are Rust, Haxe and Kotlin!
 
