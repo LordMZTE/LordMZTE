@@ -1,6 +1,6 @@
 # I don't actively use github anymore! See my newer projects on [my git server](https://mzte.de/git)!
 
-## Hi! i'm a Rustacian, [Python hater](https://pythonlang.org) and Minecraft modder with too much time!
+## Hi! i'm a [Ziguana](https://ziglang.org), [Python hater](https://pythonlang.org) and Minecraft modder with too much time!
 
 ##### My favorite languages are Rust, Haxe and Kotlin!
 
@@ -12,13 +12,13 @@
 <hr />
 
 ### Contact
-| Platform | Name                                      |
-| :------- | ----------------------------------------: |
-| Twitter  | [@lordmzte](https://twitter.com/LordMZTE) |
-| Matrix   | @lordmzte:mzte.de                         |
-| Discord  | LordMZTE#9001                             |
-| Email    | lord@mzte.de                              |
+| Platform   | Name                                      |
+| :-------   | ----------------------------------------: |
+| My Website | https://mzte.de                           |
+| Matrix     | @lordmzte:mzte.de                         |
+| Discord    | LordMZTE#9001                             |
+| Email      | lord@mzte.de                              |
 
-## What do i think of this programming language?
+## What do I think of this programming language?
 always exactly this:
 ![langchart](langchart.png)
